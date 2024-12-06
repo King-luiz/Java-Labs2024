@@ -5,16 +5,16 @@ including object-oriented programming, inheritance, polymorphism, interfaces, an
 The structure is organized into individual files and folders based on specific topics or projects.
 
 Contents
-# Basic Java Programs: Core implementations like Circle, Rectangle, and Employee classes.
-# Object-Oriented Programming: Demonstrations of concepts like inheritance, abstraction, and polymorphism.
-# Data Structures and Algorithms: Various utility classes to practice algorithmic approaches.
-# Small Projects:
-# Author and Book: Relationships between entities using classes.
-# Customer and Account: Simulations of banking processes.
-# Ball and Player: Simple game mechanics implementation.
-# Advanced Topics:
-# Polymorphism, Abstract Class, and Interface: Detailed exercises to deepen understanding of advanced OOP principles.
-# Complex Numbers: Implementation of operations on complex numbers
+Basic Java Programs: Core implementations like Circle, Rectangle, and Employee classes.
+Object-Oriented Programming: Demonstrations of concepts like inheritance, abstraction, and polymorphism.
+Data Structures and Algorithms: Various utility classes to practice algorithmic approaches.
+Small Projects:
+Author and Book: Relationships between entities using classes.
+Customer and Account: Simulations of banking processes.
+Ball and Player: Simple game mechanics implementation.
+Advanced Topics:
+Polymorphism, Abstract Class, and Interface: Detailed exercises to deepen understanding of advanced OOP principles.
+Complex Numbers: Implementation of operations on complex numbers
 
 
 
