@@ -12,7 +12,7 @@ public class PasswordFieldExample extends Application {
     @Override
     public void start(Stage primaryStage) throws Exception {
 
-        // Create UI elements
+        // Create User Interface elements
         Label accountNameLabel = new Label("Account Name:");
         Label passwordLabel = new Label("Password:");
         TextField accountNameField = new TextField();
