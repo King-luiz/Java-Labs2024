@@ -19,4 +19,6 @@ public class Temperature {
         // Close the scanner 
         scanner.close();
     }
-}
+ }
+
+   //codedbyluiz
