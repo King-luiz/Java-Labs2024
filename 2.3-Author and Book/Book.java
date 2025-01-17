@@ -1,6 +1,4 @@
 
-import javax.sound.sampled.SourceDataLine;
-
 public class Book {
     //attributes
     String isbn;
@@ -62,7 +60,6 @@ public class Book {
         Book book = new Book("1239987", "The Great Gatsby", author, 25.0, 10);
         System.out.println(book);
 
-
         //test for getter and setter
         book.setPrice(30.0);
         System.out.println("New Price: " + book.getPrice());
@@ -70,3 +67,4 @@ public class Book {
     }
     
 }
+         //codedbyluiz
