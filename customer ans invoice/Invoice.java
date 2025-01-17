@@ -29,19 +29,19 @@ public class Invoice {
     public void setAmount(double amount) {
         this.amount = amount;
     }
-    //customer id
+    // method for customer id
     public int getCustomerId() {
         return customer.getId();
     }
-    //customer name
+    //method for customer name
     public String getCustomerName() {
         return customer.getName();
     }
-    //customer discount
+    //method for customer discount
     public int getCustomerDiscount() {
         return customer.getDiscount();
     }
-    //amt after disc
+    //Amt after discount
     public double getAmountAfterDiscount() {
         return amount - (amount * (customer.getDiscount() / 100.0));
     }
@@ -69,11 +69,6 @@ public class Invoice {
         // testing toString method
         System.out.println(invoice);
     }
-
-
-
-
-
-
     
 }
+           //codedbuluiz
