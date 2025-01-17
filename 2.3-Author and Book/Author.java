@@ -3,7 +3,10 @@ public class Author {
     String name;
     String email;
 
-    //constructors
+    //default constructor
+    public Author (){   
+    }
+    //parametric constructors
     public Author(String name, String email) {
         this.name = name;
         this.email = email;
@@ -38,9 +41,7 @@ public class Author {
         //test for setters
         author1.setEmail("jane@gmail.com");
         System.out.println(author1);
-
-
-
-
     }
 }
+
+      //codedbyluiz
