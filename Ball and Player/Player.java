@@ -24,7 +24,7 @@ public class Player {
         float distance = (float) Math.sqrt(Math.pow(x - ball.getX(), 2) + Math.pow(y - ball.getY(), 2));
         return distance < 8;
     }
-    //kick
+    //method for kick
     //public void kick(Ball ball) {
         // Implement logic to kick the ball, possibly modifying its velocity
         // For example:
@@ -33,7 +33,7 @@ public class Player {
     //}
 
     
-    //toString()
+    //method to toString()
     public String toString(){
         return "Player " + number + " at (" + x + ", " + y + ", " + z + ")";
     }
