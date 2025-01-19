@@ -10,7 +10,7 @@ public class Player {
         this.x = x;
         this.y = y;
     }
-    //move
+    //method to move
     public void move(float xDist, float yDist) {
         x += xDist;
         y += yDist;
@@ -57,4 +57,6 @@ public class Player {
     }
 
 }
+
+       #codedbyluiz
 
