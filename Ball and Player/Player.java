@@ -15,11 +15,11 @@ public class Player {
         x += xDist;
         y += yDist;
     }
-    //jump
+    //method to jump
     public void jump(float zDist){
         z += zDist;
     }
-    //near
+    // method to get the near ball
     public Boolean near(Ball ball){
         float distance = (float) Math.sqrt(Math.pow(x - ball.getX(), 2) + Math.pow(y - ball.getY(), 2));
         return distance < 8;
