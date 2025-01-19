@@ -44,6 +44,7 @@ public class Player {
 
     public static void main(String[] args) {
         //test for constructors
+        //with a ball instance 
         Ball ball1 = new Ball(1, 2,3);
         System.out.println("Ball1: " + ball1);
 
